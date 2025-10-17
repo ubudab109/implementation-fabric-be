@@ -7,4 +7,4 @@
 - Run `npm install`
 - Run `npm run dev` to run locally
 
-- Frontend Repository: 
+- Frontend Repository: https://github.com/ubudab109/implementation-fabric-fe
